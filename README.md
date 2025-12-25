@@ -45,7 +45,7 @@ The following plots are generated to analyze the data:
 - Min-Max Chart (size comparison between species)
 
 ## Machine Learning
-- Model: Support Vector Classifier (SVC)
+- **Model:** Support Vector Classifier (SVC)
 - Kernel: RBF
 - Data Scaling: StandardScaler
 - Train/Test Split: applied before training
